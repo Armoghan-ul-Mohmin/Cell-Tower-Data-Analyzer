@@ -1,6 +1,9 @@
 <h1 align="center">Cell Tower Data Analyzer 🚀</h1>
 <br>
 
+[![GitHub](https://img.shields.io/github/license/Armoghan-ul-Mohmin/Cell-Tower-Data-Analyzer)](https://github.com/Armoghan-ul-Mohmin/Cell-Tower-Data-Analyzer/blob/main/LICENSE)
+![Code Size](https://img.shields.io/github/languages/code-size/Armoghan-ul-Mohmin/Cell-Tower-Data-Analyzer)
+
 Welcome to the Cell Tower Data Analyzer! This project is designed to help you analyze and interpret data from cell towers. Whether you're looking to determine the average signal strength, find the nearest tower to a specific location, or gain insights into your cellular network, this tool provides an easy and efficient way to handle your data.
 
 ## Features
